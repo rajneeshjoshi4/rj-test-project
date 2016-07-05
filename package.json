@@ -1,11 +1,19 @@
 {
   "name": "rj-test-project",
   "version": "1.0.0",
-  "description": "a test project created by rajneesh",
+  "description": "Rajneesh's test project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajneeshjoshi4/rj-test-project.git"
+  },
   "author": "Rajneesh Joshi",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajneeshjoshi4/rj-test-project/issues"
+  },
+  "homepage": "https://github.com/rajneeshjoshi4/rj-test-project#readme"
 }
