@@ -1,0 +1,11 @@
+{
+  "name": "rj-test-project",
+  "version": "1.0.0",
+  "description": "a test project created by rajneesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajneesh Joshi",
+  "license": "ISC"
+}
